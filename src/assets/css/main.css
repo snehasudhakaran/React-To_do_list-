@@ -1,0 +1,29 @@
+.main-container{
+    height:370px;
+}
+
+li{
+    font-size: 25px;
+    background-color: rgb(218, 216, 213,0.3);
+}
+
+input{
+    transform: scale(1.5);
+}
+
+.con{
+    width:35%;
+}
+
+.form-control1{
+    margin-left: 86px;
+}
+
+.formm{
+    margin-left: 15px;
+}
+
+.formm input{
+    width:20%;
+}
+
